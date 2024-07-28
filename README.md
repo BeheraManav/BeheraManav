@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beheramanav&label=Profile%20views&color=0e75b6&style=flat" alt="beheramanav" /> </p>
 
 <p align="left"> <a href="https://twitter.com/methodmanav" target="blank"><img src="https://img.shields.io/twitter/follow/methodmanav?logo=twitter&style=for-the-badge" alt="methodmanav" /></a> </p>
-<img align="right" src="https://i.pinimg.com/originals/91/24/d9/9124d930617f1283208a767f94dd4dd9.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/91/24/d9/9124d930617f1283208a767f94dd4dd9.gif">
 
 - 🌱 I’m currently learning **Kubernetes and AI/ML**
 
